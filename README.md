@@ -17,4 +17,4 @@ The folder consists of two image files on which blending needs to be performed.
 #### Haar Cascade Classifier Files: -
 It is included in the folder named third-party for eyes, mouth and nose. All of the files can be used appropriately. Since, here we have to blend only sunglass and mustache, eyes and nose files are enough to serve the purpose.
 
-#### [Complete Solution Understanding]
+#### [Complete Solution Understanding](https://medium.com/@pushpendrasinghcod/snapchat-face-filters-using-python-862d05d1371e)
